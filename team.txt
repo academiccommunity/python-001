@@ -1,2 +1,3 @@
-Leader: Andra
-Staff: -
+Leader: Hexandra Andra
+Staff: Xandra
+Done.
